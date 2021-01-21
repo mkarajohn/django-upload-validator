@@ -11,3 +11,6 @@
 *.DS_Store
 
 .idea/
+
+venv
+django_upload_validator.egg-info
