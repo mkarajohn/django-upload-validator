@@ -20,23 +20,20 @@ msgstr ""
 
 #: __init__.py:27
 #, python-format
-msgid ""
-"File type '%(detected_type)s' is not allowed. Allowed types are: "
-"'%(allowed_types)s'."
-msgstr "Ο τύπος'%(detected_type)s' δεν επιτρέπεται. Επιτρέπονται οι τύποι: "
-"'%(allowed_types)s'."
+msgid "File type '%(detected_type)s' is not allowed."
+"Allowed types are: '%(allowed_types)s'."
+msgstr "Ο τύπος'%(detected_type)s' δεν επιτρέπεται."
+"Επιτρέπονται οι τύποι: '%(allowed_types)s'."
 
 #: __init__.py:32
 #, python-format
-msgid ""
-"File extension '%(extension)s' is not allowed. Allowed extensions are: "
-"'%(allowed_extensions)s'."
-msgstr "Η επέκταση αρχείου '%(extension)s' δεν επιτρέπεται. Επιτρέπονται οι επεκτάσεις: "
-"'%(allowed_extensions)s'."
+msgid "File extension '%(extension)s' is not allowed."
+"Allowed extensions are: '%(allowed_extensions)s'."
+msgstr "Η επέκταση αρχείου '%(extension)s' δεν επιτρέπεται."
+"Επιτρέπονται οι επεκτάσεις: '%(allowed_extensions)s'."
 
 #: __init__.py:37
 #, python-format
-msgid ""
-"Allowed type '%(allowed_type)s' is not a valid type. See https://www.iana."
+msgid "Allowed type '%(allowed_type)s' is not a valid type. See https://www.iana."
 "org/assignments/media-types/media-types.xhtml"
 msgstr ""
