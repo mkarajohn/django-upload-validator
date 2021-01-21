@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-21 04:56+0200\n"
+"POT-Creation-Date: 2021-01-21 05:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,21 +19,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: __init__.py:27
-#, python-format
-msgid "File type '%(detected_type)s' is not allowed."
-"Allowed types are: '%(allowed_types)s'."
-msgstr "Ο τύπος'%(detected_type)s' δεν επιτρέπεται."
-"Επιτρέπονται οι τύποι: '%(allowed_types)s'."
+#, fuzzy, python-format
+msgid ""
+"File type '%(detected_type)s' is not allowed. Allowed types are: "
+"'%(allowed_types)s'."
+msgstr ""
+"Ο τύπος'%(detected_type)s' δεν επιτρέπεται.Επιτρέπονται οι τύποι: "
+"'%(allowed_types)s'."
 
 #: __init__.py:32
-#, python-format
-msgid "File extension '%(extension)s' is not allowed."
-"Allowed extensions are: '%(allowed_extensions)s'."
-msgstr "Η επέκταση αρχείου '%(extension)s' δεν επιτρέπεται."
-"Επιτρέπονται οι επεκτάσεις: '%(allowed_extensions)s'."
+#, fuzzy, python-format
+msgid ""
+"File extension '%(extension)s' is not allowed. Allowed extensions are: "
+"'%(allowed_extensions)s'."
+msgstr ""
+"Η επέκταση αρχείου '%(extension)s' δεν επιτρέπεται.Επιτρέπονται οι "
+"επεκτάσεις: '%(allowed_extensions)s'."
 
 #: __init__.py:37
 #, python-format
-msgid "Allowed type '%(allowed_type)s' is not a valid type. See https://www.iana."
+msgid ""
+"Allowed type '%(allowed_type)s' is not a valid type. See https://www.iana."
 "org/assignments/media-types/media-types.xhtml"
 msgstr ""
